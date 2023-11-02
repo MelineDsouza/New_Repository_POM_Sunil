@@ -17,6 +17,8 @@ class Test_Login:
         objlogin = Login(setup)
         objlogin.login("Admin","admin123")
         print("not working")
+        print("working")
+
 
     # def test_login_title(self):
     #     obj = Login()
